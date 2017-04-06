@@ -1,0 +1,16 @@
+.laptop {
+    display: inline-table;
+    margin: 20px;
+    border: solid coral;
+}
+
+.laptop img{
+    display: block;
+    height: 200px;
+    max-width: 250px;
+    width: auto;
+}
+
+.laptop:hover{
+    border: dashed coral;
+}
